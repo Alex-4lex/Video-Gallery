@@ -20,7 +20,7 @@ let data = [
     {
         'id': 'a2',
         'title': 'أحد عناصر جيش بشار الأسد يقوم بإعدام رجل مدني ',
-        'name': 'video_2.mp4',
+        'name': 'manipulate text background.mp4',
         'duration': '2:45',
     },
     {
